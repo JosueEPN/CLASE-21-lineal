@@ -2,7 +2,7 @@
 #include <fstream>
 int busqueda(int a[],int n, int dato);
 using namespace std;
-
+//
 int main()
 {
     ofstream archivodata;
